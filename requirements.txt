@@ -29,7 +29,6 @@ defusedxml==0.7.1
 entrypoints==0.3
 Flask==2.0.2
 Flask-Compress==1.10.1
-gdal @ file:///C:/Users/mitch/Documents/Data%20Science%20Side%20Projects/AltaML%20Dashboard%20Assessment/assessment/GDAL-3.2.3-cp38-cp38-win_amd64.whl
 gunicorn==20.1.0
 idna==3.3
 ipykernel==6.4.2
