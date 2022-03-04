@@ -5,3 +5,8 @@ __pycache__/*
 
 data/*
 !data/.gitkeep
+!data/trips_neigh.csv
+!data/Community District Boundaries.geojson
+!data/coc-logo.png
+
+requirements_true.txt

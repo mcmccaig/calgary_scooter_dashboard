@@ -1,5 +1,5 @@
 import pandas as pd
-scooter = pd.read_csv('data/pilot_trips_dt.csv')
+scooter = pd.read_csv('data/trips_neigh.csv')
 scooter['dt_start_date'] = pd.to_datetime(scooter['dt_start_date'])
 
 VEHICLE_TYPE = ['All', 'Bicycle', 'Scooter']
